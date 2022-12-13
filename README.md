@@ -74,7 +74,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://dashboard.heroku.com/new?template=https://github.com/Raizelbot/CheemsBot-MD4)](https://dashboard.heroku.com/new?template=https://github.com/Raizelbot/CheemsBot-MD4)
+[![Deploy](https://dashboard.heroku.com/new?template=https://github.com/Raizelbot/CheemsBot-MD4)](https://dashboard.heroku.com/new?template=https://github.com/childebot661/CheemsBot-MD4)
 
 # Install Manually 👇
 ## `Requirements`
