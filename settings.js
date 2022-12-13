@@ -1,4 +1,4 @@
-//════════════════════════════//
+٫𝙏𝘼𝙍𝙏𝘼𝙂𝙇𝙄𝘼 𝘽𝙊𝙏✩/════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
@@ -61,15 +61,15 @@ global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['9660540637980']
-global.ownertag = '9660540637980' //ur tag number
-global.botname = 'BOT ABDUL RAHMAN🐼🍷 ٫' //ur bot name
+global.owner = ['201146593819']
+global.ownertag = '201146593819' //ur tag number
+global.botname = '𝙏𝘼𝙍𝙏𝘼𝙂𝙇𝙄𝘼 𝘽𝙊𝙏✩ ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
-global.reactmoji = "🌚" //ur menu react emoji
-global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
+global.reactmoji = "🌊" //ur menu react emoji
+global.themeemoji = "🌊" //ur theme emoji
+global.packname = "⍣تارتاقليا⍣" //ur sticker watermark packname
 global.author = "⍣9660540637980⍣" //ur sticker watermark author
 
 //Bot theme media
@@ -105,16 +105,16 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
+    success: '𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴 𝙶𝙸𝚁𝙻𝚈 ✓',
     admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
     group: 'لميزة تستخدم فقط للمجموعات!',
     private: 'الميزه المستخدمة فقط للدردشة الخاصة!',
     bot: 'هذه الميزة مخصصة للبوت فقط',
-    wait: 'استني شويه...',
+    wait: '𝚆𝙰𝙸𝚃...',
     linkm: 'أين الرابط?',
-    error: 'ايرور!!',
+    error:'يالمتخلف 𝙴𝚁𝚁𝙾𝚁!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'لقد تم حظرك من قبل المالك ، إذا كنت تريد أن تكون غير محظور ، مالك الدردشة.',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
