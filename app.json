@@ -1,5 +1,5 @@
 {
-  "name": "𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫",
+  "name": " 𝙏𝘼𝙍𝙏𝘼𝙂𝙇𝙄𝘼 𝘽𝙊𝙏✩٫",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DGXeon/CheemsBot-MD4",
   "logo": "https://telegra.ph/file/9d09a00e6c16ca29eead1.jpg",
@@ -9,7 +9,7 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/childebot661/heroku-buildpack-ffmpeg-latest"
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
